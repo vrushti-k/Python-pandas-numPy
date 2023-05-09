@@ -1,4 +1,3 @@
-# Python-pandas-numPy
-Codes for basic python libraries such as pandas, numPy, seaborn, matplotlib
+# Python-Sentiment analysis: Beginner Python coding
 
-Sentiment analysis of Donal TTrump's tweets using basic Python code and positive, negative, stop words.
+Sentiment analysis of Donal Trump's tweets using basic Python code and positive, negative, stop words.
